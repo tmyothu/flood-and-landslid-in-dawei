@@ -1,0 +1,47 @@
+{
+  "townships": [
+    {
+      "township_en": "Launglon",
+      "township_mm": "လောင်းလုံး",
+      "villages": 25,
+      "deaths": 29,
+      "missing": 87,
+      "displaced": 501,
+      "houses_damaged": 321,
+      "houses_flooded": 0,
+      "bridges": 4
+    },
+    {
+      "township_en": "Thayetchaung",
+      "township_mm": "သရက်ချောင်း",
+      "villages": 34,
+      "deaths": 9,
+      "missing": 0,
+      "displaced": 0,
+      "houses_damaged": 65,
+      "houses_flooded": 393,
+      "bridges": 1
+    },
+    {
+      "township_en": "Dawei",
+      "township_mm": "ထားဝယ်",
+      "villages": 5,
+      "deaths": 2,
+      "missing": 0,
+      "displaced": 0,
+      "houses_damaged": 0,
+      "houses_flooded": 0,
+      "bridges": 0
+    }
+  ],
+  "overall": {
+    "villages": 64,
+    "deaths": 40,
+    "missing": 87,
+    "displaced": 501,
+    "houses_damaged": 386,
+    "houses_flooded": 393,
+    "bridges": 5
+  },
+  "source": "Dawei flooding 30 Sep 2026, MIMU v9.7"
+}

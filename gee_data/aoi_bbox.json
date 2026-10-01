@@ -1,0 +1,9 @@
+{
+  "AOI_Dawei_District_WGS84": {
+    "west": 97.91927,
+    "south": 13.37631,
+    "east": 98.58668,
+    "north": 14.258370000000001
+  },
+  "crs": "EPSG:4326"
+}

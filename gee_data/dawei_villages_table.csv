@@ -1,0 +1,65 @@
+﻿id,township_en,township_mm,village_en,village_mm,pcode,match_status,hazard_en,hazard_mm,deaths,missing_trapped,displaced,houses_damaged,houses_flooded,bridges_damaged,Latitude,Longitude,needs_en,needs_mm
+1,Launglon,လောင်းလုံး,Ka Det Nge Seik,ကဒက်ငယ်ဆိပ်,177170,exact,Flood,ရေကြီး,2,10,,18,,1,13.90269,98.17364,"Search & rescue, relief teams",ရှာဖွေ/ကယ်ဆယ်၊ ကယ်ဆ�ેલ�ေးစခန်း
+2,Launglon,လောင်းလုံး,Kyauk Ni Maw,ကျောက်နီမော်,177227,fuzzy,"Landslide, houses buried",တောင်ပြို၊ အိမ်များဖုံးလွှမ်း,2,5,,50,,,13.65575,98.18098,Rescue + emergency food,ကယ်ဆယ် + အရေးပေါ်အစားအစာ
+3,Launglon,လောင်းလုံး,Ka Det Nge Htein,ကဒက်ငယ်ထိန်,177156,fuzzy,Landslide,တောင်ပြို,10,5,,50,,,13.88634,98.13469,Rescue + emergency food,ကယ်ဆယ် + အရေးပေါ်အစားအစာ
+4,Launglon,လောင်းလုံး,Kyauk Gyi,ကျောက်ကြီး,,township_centroid,Flood,ရေကြီး,2,,,2,,,13.99,98.17,Rescue + emergency food,ကယ်ဆယ် + အရေးပေါ်အစားအစာ
+5,Launglon,လောင်းလုံး,Kayin Gyi / Kan Pa Ni,ကရင်ကြီး / ကမ်းပနီ,177174,exact,"Landslide, houses buried",တောင်ပြို,,60,,85,,1,14.07111,98.09908,Emergency food + shelter,အရေးပေါ်အစားအစာ + နေရာထိုင်ခင်း
+6,Launglon,လောင်းလုံး,Min Yat,မင်းရပ်,177138,exact,Landslide,တောင်ပြို,1,2,,,,,14.0517,98.14902,Rescue,ကယ်ဆယ်
+7,Launglon,လောင်းလုံး,Tha Byar,သဗျာ,177126,exact,"Flood, elderly trapped",ရေကြီး,3,,,50,,1,14.00968,98.12913,Rescue ongoing,ကယ်ဆယ်ဆဲ
+8,Launglon,လောင်းလုံး,Auk Ywa Pyo,အောက်ရွာပြို,,township_centroid,Flood victims,ရေဘေးသင့်,,,500,,,,13.99,98.17,"Water, food, shelter, school+monastery camp",ရေ၊ အစားအစာ၊ နေရာ - ကျောင်း+ဘုန်းကြီးကျောင်းစခန်း
+9,Launglon,လောင်းလုံး,Thet Pyin,သဇပ်,,township_centroid,Landslide rumor,တောင်ပြို(သတင်း),2,5,,,,,13.99,98.17,Rescue,ကယ်ဆယ်
+10,Launglon,လောင်းလုံး,Tha Yet,သက,,township_centroid,"Flood, landslide",ရေကြီး+တောင်ပြို,5,,,34,,,13.99,98.17,Unknown,မသိရသေး
+11,Launglon,လောင်းလုံး,Tha Thet Yin,သသေ့ရင်,,township_centroid,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.99,98.17,Unknown,မသိရသေး
+12,Launglon,လောင်းလုံး,Kyauk Thaik,ကျောက်သက်,,township_centroid,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.99,98.17,Unknown,မသိရသေး
+13,Launglon,လောင်းလုံး,Za Lut,ဇလွတ်,177215,exact,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.68818,98.17391,Unknown,မသိရသေး
+14,Launglon,လောင်းလုံး,Tha Inn,သာအင်း,,township_centroid,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.99,98.17,Unknown,မသိရသေး
+15,Launglon,လောင်းလုံး,Ka Nyon Kyun,ကညုံကျွန်း,177125,exact,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.92397,98.19874,Unknown,မသိရသေး
+16,Launglon,လောင်းလုံး,Ka Htaung Ni,ကထောင်းနီ,177159,fuzzy,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.92955,98.17161,Unknown,မသိရသေး
+17,Launglon,လောင်းလုံး,Nyin Maw,ညင်းမော်,177144,exact,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.9416,98.12589,Rescue + road clearing,ကယ်ဆယ် + လမ်းရှင်းလင်း
+18,Launglon,လောင်းလုံး,Thaik Zaik,သိုက်ဆိပ်,,township_centroid,"Flood, landslide",ရေကြီး+တောင်ပြို,,,,,,,13.99,98.17,Unknown,မသိရသေး
+19,Launglon,လောင်းလုံး,Ka Myaw Gyi,ကမြောကြီး,177182,exact,Flood,ရေကြီး,,,,,,,14.08399,98.16753,"Rescue, basic food",ကယ်ဆယ်၊ အခြေခံအစားအစာ
+20,Launglon,လောင်းလုံး,Inn Wun,အင်းဝန်း,177180,exact,Flood,ရေကြီး,,,,,,,14.0752,98.16529,"Rescue, basic food",ကယ်ဆယ်၊ အခြေခံအစားအစာ
+21,Launglon,လောင်းလုံး,Tha Pye,သပြေ,177210,fuzzy,Flood,ရေကြီး,,,,,,,13.82825,98.16515,"Rescue, basic food",ကယ်ဆယ်၊ အခြေခံအစားအစာ
+22,Launglon,လောင်းလုံး,Kone Za Yat,ကုန်းဇရပ်,177131,exact,Flood,ရေကြီး,,,,,,,14.00022,98.15917,,No data
+23,Launglon,လောင်းလုံး,Ti Zit,တီဇစ်,177147,exact,"Flood, buried",ရေကြီး+ဖုံး,1,,,10,,1,13.90819,98.09427,"10+ boats washed, 1 bridge",လှေ၁၀+မျှော၊ တံတား၁
+24,Launglon,လောင်းလုံး,Pa Nyit,ပညစ်,177151,exact,"Flood, buried",ရေကြီး+ဖုံး,,,,2,,,14.00735,98.06927,Basic food,အခြေခံအစားအစာ
+25,Launglon,လောင်းလုံး,Za Lut Paing Kaing,ဇလွတ်ပိုင်ကိုင်း,177215,fuzzy,Buried/Flood,ဖုံး/ရေကြီး,1,,1,20,,,13.68818,98.17391,Rescue + basic food,ကယ်ဆယ် + အခြေခံအစားအစာ
+26,Thayetchaung,သရက်ချောင်း,Thayetchaung Town,သရက်ချောင်းမြို့ပေါ်,,township_centroid,Flood,ရေကြီး,2,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+27,Thayetchaung,သရက်ချောင်း,Thayetchaung Myo Ma,သရက်ချောင်းမြို့မ,,township_centroid,Flood,ရေကြီး,,,,4,,,13.54,98.40,Water/food/rescue,ရေ/အစားအစာ/ကယ်ဆယ်
+28,Thayetchaung,သရက်ချောင်း,Kyauk Pan,ကျောက်ပန်း,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+29,Thayetchaung,သရက်ချောင်း,Nan Taw,နန်းတော်,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+30,Thayetchaung,သရက်ချောင်း,Ti Tut Pyin,တီတွတ်ပြင်,177253,fuzzy,Flood,ရေကြီး,,,,,,,13.83114,98.26104,Water/food/rescue,ရေ/အစားအစာ/ကယ်ဆယ်
+31,Thayetchaung,သရက်ချောင်း,Za Ke,ဇကဲ,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Water/food/rescue,ရေ/အစားအစာ/ကယ်ဆယ်
+32,Thayetchaung,သရက်ချောင်း,Shin Ma Toe,ရှင်မတိုး,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+33,Thayetchaung,သရက်ချောင်း,Sa Yin Maw,စရင်းမော်,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+34,Thayetchaung,သရက်ချောင်း,Nyaung Zin,ညောင်ဇင်,177241,exact,Flood,ရေကြီး,,,,,,,13.98508,98.23485,Emergency aid,အရေးပေါ်အကူအညီ
+35,Thayetchaung,သရက်ချောင်း,Ka Inn,ကာအင်း,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+36,Thayetchaung,သရက်ချောင်း,Kaing Shaung,ကိုင်းရှောင်,,township_centroid,"Flood, houses flooded",ရေကြီး,,,,,,,13.54,98.40,Boat/water/food,လှေ/ရေ/အစားအစာ
+37,Thayetchaung,သရက်ချောင်း,Moe Shan Kan,မိုးရှမ်းကမ်း,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+38,Thayetchaung,သရက်ချောင်း,Thit Taw,သစ်တော,177278,fuzzy,Flood,ရေကြီး,2,,,1,,,13.66839,98.38228,Boat/water/food,လှေ/ရေ/အစားအစာ
+39,Thayetchaung,သရက်ချောင်း,Ka Nyin Chaung,ကညင်ချောင်း,177296,exact,Flood,ရေကြီး,3,,,,,,13.52631,98.42805,Emergency aid,အရေးပေါ်အကူအညီ
+40,Thayetchaung,သရက်ချောင်း,Yan Taung,ရန်တောင်,177240,exact,Flood,ရေကြီး,,,,,,,13.97033,98.24014,Emergency aid,အရေးပေါ်အကူအညီ
+41,Thayetchaung,သရက်ချောင်း,Thin Kyun,သင်းကျွန်း,177239,fuzzy,Flood,ရေကြီး,,,,,,,13.95898,98.2435,Emergency aid,အရေးပေါ်အကူအညီ
+42,Thayetchaung,သရက်ချောင်း,Tha Yet Hnit Khwa,သရက်နှစ်ခွ,177238,exact,Flood,ရေကြီး,,,,,,,13.94522,98.25066,Emergency aid,အရေးပေါ်အကူအညီ
+43,Thayetchaung,သရက်ချောင်း,Oke Tu,ဥတ္တူ,177237,exact,Flood,ရေကြီး,,,,,,,13.93532,98.27586,Emergency aid,အရေးပေါ်အကူအညီ
+44,Thayetchaung,သရက်ချောင်း,Htee Phar,ထီးဖေ,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+45,Thayetchaung,သရက်ချောင်း,Ah Lel Su,အလယ်စု,222700,exact,Flood,ရေကြီး,,,,10,200,,13.73865,98.43351,Emergency aid,အရေးပေါ်အကူအညီ
+46,Thayetchaung,သရက်ချောင်း,Byat Wi Thar,ဗျတ်ဝိသား,222699,exact,Flood,ရေကြီး,,,,12,80,,13.72497,98.43668,Emergency aid,အရေးပေါ်အကူအညီ
+47,Thayetchaung,သရက်ချောင်း,Ka Khat,ကက္ခပ်,,township_centroid,Flood,ရေကြီး,,,,11,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+48,Thayetchaung,သရက်ချောင်း,Kyauk Hlay Kar,ကျောက်လှေကား,177250,exact,Flood,ရေကြီး,,,,1,,,13.97237,98.29796,Emergency aid,အရေးပေါ်အကူအညီ
+49,Thayetchaung,သရက်ချောင်း,Mei Ke,မယ်ကဲ,177286,exact,Flood,ရေကြီး,,,,2,,,13.83816,98.43425,Emergency aid,အရေးပေါ်အကူအညီ
+50,Thayetchaung,သရက်ချောင်း,Kyauk Aing,ကျောက်အိုင်,177287,exact,Flood,ရေကြီး,2,,,,,,13.80203,98.42225,Emergency aid,အရေးပေါ်အကူအညီ
+51,Thayetchaung,သရက်ချောင်း,Win Ka Hpaw,ဝင်းကဖော်,177289,fuzzy,Flood,ရေကြီး,,,,,,1,13.77548,98.41314,Emergency aid,အရေးပေါ်အကူအညီ
+52,Thayetchaung,သရက်ချောင်း,Ka Htoe Wa (Let Wa),ကထိုးဝ (လက်ဝ),222921,fuzzy,Flood,ရေကြီး,,,,,,,13.96142,98.32057,Emergency aid,အရေးပေါ်အကူအညီ
+53,Thayetchaung,သရက်ချောင်း,Inn Phar,အင်းဖျား,,township_centroid,Flood,ရေကြီး,,,,,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+54,Thayetchaung,သရက်ချောင်း,Sin Ku,ဆင်ကူး,177255,exact,Flood/Buried,ရေကြီး/ဖုံး,,,,3,,,13.82797,98.2786,Emergency aid,အရေးပေါ်အကူအညီ
+55,Thayetchaung,သရက်ချောင်း,Kywe Chan,ကျွဲခြံ,177290,fuzzy,Flood/Buried,ရေကြီး/ဖုံး,,,,2,,,13.76635,98.41011,Emergency aid,အရေးပေါ်အကူအညီ
+56,Thayetchaung,သရက်ချောင်း,Tha Khwet Chaung,သခွက်ချောင်း,,township_centroid,Flood/Buried,ရေကြီး/ဖုံး,,,,1,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+57,Thayetchaung,သရက်ချောင်း,Ka Zi Hte,ကဇိထဲ,177232,exact,Flood/Buried,ရေကြီး/ဖုံး,,,,2,,,13.89718,98.27281,Emergency aid,အရေးပေါ်အကူအညီ
+58,Thayetchaung,သရက်ချောင်း,Pa Ma Kha Chet,ပမခါးချက်,,township_centroid,Flood,ရေကြီး,,,,2,,,13.54,98.40,Emergency aid,အရေးပေါ်အကူအညီ
+59,Thayetchaung,သရက်ချောင်း,Thea Chaung Gyi,သဲချောင်းကြီး,177288,exact,Flood,ရေကြီး,,,,14,113,,13.7559,98.40378,Emergency aid,အရေးပေါ်အကူအညီ
+60,Dawei,ထားဝယ်,Dawei Town Wards,ထားဝယ်မြို့ပေါ်ရပ်ကွက်များ,,township_centroid,"Rising water, roads flooded",ရေတက်လမ်းရေကြီး,,,,,,,14.08,98.20,Rescue + drainage,ကယ်ဆယ် + ရေသွယ်ရေး
+61,Dawei,ထားဝယ်,Za Lun,ဇလွန်း,177035,exact,Flood,ရေကြီး,,,,,,,14.08448,98.22845,Road + emergency aid,လမ်းဆက်သွယ်ရေး + အရေးပေါ်ကူ
+62,Dawei,ထားဝယ်,Ta Laing Taung,တလိုင်းတောင်,177036,exact,Flood,ရေကြီး,,,,,,,14.08339,98.24163,Road + emergency aid,လမ်းဆက်သွယ်ရေး + အရေးပေါ်ကူ
+63,Dawei,ထားဝယ်,Pa Kar Ri,ပကာရီ,177041,exact,"Flood, bridge overtopped",ရေကြီး,,,,,,,14.10837,98.30409,Road + emergency aid,လမ်းဆက်သွယ်ရေး + အရေးပေါ်ကူ
+64,Dawei,ထားဝယ်,Moe Seik Chaung,မိုးဆိပ်ချောင်း,,township_centroid,Flood,ရေကြီး,2,,,,,,14.08,98.20,,Emergency aid
