@@ -2,7 +2,7 @@
 
 Interactive bilingual (Myanmar/English) dashboard for Dawei District floods & landslides, 30 Sep 2026.
 
-**Live demo (after Pages enabled):** `https://<your-username>.github.io/<repo-name>/`
+**Live demo:** `https://tmyothu.github.io/flood-and-landslid-in-dawei/`
 
 ## Files
 - `index.html` / `dashboard.html` — interactive dashboard (map, metrics, filters, MM/EN toggle)
