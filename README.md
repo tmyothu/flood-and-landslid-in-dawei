@@ -20,6 +20,9 @@ Interactive bilingual (Myanmar/English) dashboard for Dawei District floods & la
 - Deaths 40+, Missing/trapped 20+, Displaced 560+, Houses damaged 411+, Bridges 15, Houses flooded 393
 - Rainfall Dawei 27 Sep: 11.02 inch (280mm) record
 
+## Data source Credit
+MAGGA Initiative
+
 ## Run locally
 Just open `index.html` in a browser (internet needed for map tiles). No build step.
 
